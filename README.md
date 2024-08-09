@@ -39,8 +39,4 @@ pip install -r requirements.txt
 ## Demo
 
 Here is a demo video of the application:
-
-<video width="640" height="480" controls>
-  <source src="streamlit-snapchat_face_filters-2024-08-09-19-08-52.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![demo](demo.mp4)
