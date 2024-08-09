@@ -39,8 +39,4 @@ pip install -r requirements.txt
 ## Demo
 
 Here is a demo video of the application:
-
-<video width="640" height="480" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![demo](demo.mp4)
