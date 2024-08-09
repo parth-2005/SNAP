@@ -39,4 +39,4 @@ pip install -r requirements.txt
 ## Demo
 
 Here is a demo video of the application:
-![demo](demo.mp4)
+![demo](demo.gif)
